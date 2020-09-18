@@ -1,0 +1,10 @@
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\obj\Debug\ExchangeRatesAsync.csprojAssemblyReference.cache
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\obj\Debug\ExchangeRatesAsync.FrmExchangeRate.resources
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\obj\Debug\ExchangeRatesAsync.Properties.Resources.resources
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\obj\Debug\ExchangeRatesAsync.csproj.GenerateResource.cache
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\obj\Debug\ExchangeRatesAsync.csproj.CoreCompileInputs.cache
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\bin\Debug\ExchangeRatesAsync.exe.config
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\bin\Debug\ExchangeRatesAsync.exe
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\bin\Debug\ExchangeRatesAsync.pdb
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\obj\Debug\ExchangeRatesAsync.exe
+C:\Users\pakiz\source\repos\ExchangeRatesAsync\ExchangeRatesAsync\obj\Debug\ExchangeRatesAsync.pdb
